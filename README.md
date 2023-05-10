@@ -2,8 +2,8 @@
 <h3 align="center">A driven Computer Science student @ BTU</h3>
 
 - 🔭 I’m currently working on [pacman game](https://github.com/bilalyarmaci/pacman)
-- 🌱 I’m currently learning **JS, PHP, MySQL**
-- 📫 How to reach me **bilal.yarmaci.edu@gmail.com**
+- 💪 I’m currently advancing **JS, PHP, MySQL**
+- 📮 How to reach me **bilal.yarmaci.edu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
