@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilyal Yarmadzha</h1>
 <h3 align="center">A driven Computer Science student @ BTU</h3>
 
-[//]: # ( - 🔭 I’m currently working on [nothing]())
+[//]: # ( - 🔭 I’m currently working on )
 - 💪 I’m currently advancing **PHP & Laravel**
 - 📮 How to reach me **bilal.yarmaci.edu@gmail.com**
 
