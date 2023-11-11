@@ -2,7 +2,7 @@
 <h3 align="center">A driven Computer Science student @ BTU</h3>
 
 [//]: # ( - 🔭 I’m currently working on )
-- 💪 I’m currently advancing **PHP & Laravel**
+- 💪 I’m currently advancing **NODEJS**
 - 📮 How to reach me **bilal.yarmaci.edu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
