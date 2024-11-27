@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bilyal Yarmadzha</h1>
+<h1 align="center">Hi 👋, I'm Bilal Yarmacı</h1>
 <h3 align="center">A driven Computer Science student @ BTU</h3>
 
 [//]: # ( - 🔭 I’m currently working on )
